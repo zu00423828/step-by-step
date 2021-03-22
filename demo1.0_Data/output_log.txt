@@ -1,0 +1,142 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3040x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.470833 ms
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3040x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3040x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\LitJson.dll into Unity Child Domain
+UnloadTime: 1.334281 ms
+- Completed reload, in  0.044 seconds
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\QUESTION_DEMO\demo1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3040x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1440x900 60Hz; virtual: 3040x900 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.385600 ms
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+The connection request to 255.255.255.255:8000 failed. Are you sure the server can be connected to?
+ 
+(Filename:  Line: 667)
+
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 184c -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16e8 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fdc -> priority: 1 

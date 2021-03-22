@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 980af1652b7a3784b873a8d3aebd1f0f
+timeCreated: 1509462219
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SentyTang
+  fontNames:
+  - SentyTang
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

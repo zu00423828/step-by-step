@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8fa3356060e8dc1498a5ad8747a814a4
+timeCreated: 1509460459
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFMo-B5
+  fontNames:
+  - DFMo-B5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\MySql.Data.dll (this message is harmless)
+Loading D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\MySql.Data.dll into Unity Child Domain
+- Completed reload, in  0.485 seconds
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\QUESTION_DEMO\demo3.01_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3040x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.104464 ms
+JsonException: Invalid character '<' in input string
+  at LitJson.Lexer.NextToken () [0x00000] in <filename unknown>:0 
+  at LitJson.JsonReader.ReadToken () [0x00000] in <filename unknown>:0 
+  at LitJson.JsonReader.Read () [0x00000] in <filename unknown>:0 
+  at LitJson.JsonMapper.ReadValue (System.Type inst_type, LitJson.JsonReader reader) [0x00000] in <filename unknown>:0 
+  at LitJson.JsonMapper.ToObject[JsonData] (System.String json) [0x00000] in <filename unknown>:0 
+  at playscript+<get_ch>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1964 -> priority: 1 
